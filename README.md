@@ -1,3 +1,9 @@
 # curso-practico-js
 
-Prueba
+# Taller 1 Figuras geometricas
+
+# Taller 2 Porcentajes y descuentos
+
+#
+
+#
